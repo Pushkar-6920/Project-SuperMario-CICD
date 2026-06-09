@@ -1,4 +1,4 @@
-
+/*
 terraform {
   backend "s3" {
     bucket = "super-mario-bucket-3080" # Replace with your actual S3 bucket name
@@ -8,3 +8,4 @@ terraform {
   }
 }
 
+*/
